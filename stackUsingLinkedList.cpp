@@ -7,7 +7,7 @@ public:
     int data;
     Node *next;
 
-    Node()
+    Node() 
     {
         next = NULL;
     }
@@ -15,7 +15,7 @@ public:
 
 class Stack
 {
-Private:
+private:
     Node *top;
 public:
     Stack()
