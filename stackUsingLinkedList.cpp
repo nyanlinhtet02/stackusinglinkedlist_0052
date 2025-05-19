@@ -18,7 +18,7 @@ class Stack
 private:
     Node *top;
 public:
-    Stack()
+    Stack ()
     {
         top = NULL;
     }
@@ -72,7 +72,7 @@ int main()
 
     Stack stact;
 
-    int choice = 0
+    int choice = 0;
     int value;
 
     while (choice !=5)
