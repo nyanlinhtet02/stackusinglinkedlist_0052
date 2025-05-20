@@ -109,3 +109,6 @@ int main()
                 break;
                 case 4:
                     cout << "Exiting..." << endl; 
+                    return 0;
+        default:
+            cout << "Invalid choice. Try again." << endl;  
