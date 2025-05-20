@@ -37,3 +37,4 @@ private:
         if (isEmpty())
         { 
             cout << "Stack is Empty" << endl;
+            return; 
