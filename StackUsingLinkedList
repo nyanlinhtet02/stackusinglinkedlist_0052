@@ -106,3 +106,6 @@ int main()
                 break;
             case 3:
                 stact.peek();  
+                break;
+                case 4:
+                    cout << "Exiting..." << endl; 
