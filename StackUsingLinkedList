@@ -91,3 +91,5 @@ int main()
             {
             case 1:
                 cout << "Enter tthe value to push : "; 
+                cin >> value;
+            stact.push(value); 
