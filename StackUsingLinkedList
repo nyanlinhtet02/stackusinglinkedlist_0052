@@ -85,3 +85,9 @@ int main()
 
         switch (choice)
         {
+            cin >> choice;
+
+            switch (choice)
+            {
+            case 1:
+                cout << "Enter tthe value to push : "; 
